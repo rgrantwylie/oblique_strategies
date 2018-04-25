@@ -347,11 +347,12 @@ button {
 
 	
 p {
-    font-size: 1.125em;
+    font-size: 1em;
     color: #003da5;
 	padding: 10px;
-    margin-left: 12.5%;
-    margin-right: 12.5%;
+    margin-top: -45%;
+    margin-left: 20%;
+    margin-right: 20%;
     -webkit-animation: fadein 7s; /* Safari, Chrome and Opera > 12.1 */
        -moz-animation: fadein 7s; /* Firefox < 16 */
         -ms-animation: fadein 7s; /* Internet Explorer */
@@ -384,7 +385,7 @@ button {
     width: 40%;
     height: 20%;
     padding: 2vh 2vw;
-    margin-top: 20%;
+    margin-top: -10%;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 2vh;
     font-weight: bold;
